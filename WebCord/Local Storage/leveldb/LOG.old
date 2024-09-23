@@ -1,6 +1,0 @@
-2024/09/21-10:57:01.077 32f Reusing MANIFEST /home/chompou/.config/WebCord/Local Storage/leveldb/MANIFEST-000001
-2024/09/21-10:57:01.088 32f Recovering log #3
-2024/09/21-10:57:01.088 32f Reusing old log /home/chompou/.config/WebCord/Local Storage/leveldb/000003.log 
-2024/09/21-11:01:16.058 330 Level-0 table #5: started
-2024/09/21-11:01:16.063 330 Level-0 table #5: 35579 bytes OK
-2024/09/21-11:01:16.065 330 Delete type=0 #3
